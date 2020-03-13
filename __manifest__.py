@@ -1,6 +1,6 @@
 {
     "name": "Translate Company Information",
-    "version": "11.0.1.0.2",
+    "version": "12.0.1.0.2",
     "depends": ['base',
         'hr',
                 ],
