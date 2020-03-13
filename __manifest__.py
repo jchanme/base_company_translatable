@@ -1,5 +1,5 @@
 {
-    "name": "Translate Company Information",
+    "name": "Partner Contact Translatable",
     "version": "12.0.1.0.2",
     "depends": ['base',
         'hr',
