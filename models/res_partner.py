@@ -1,7 +1,7 @@
 from odoo import fields, models
 
 
-class CompanyInfo(models.Model):
+class ResPartner(models.Model):
     _inherit = 'res.partner'
 
     company_name = fields.Char(translate=True)
